@@ -1,0 +1,1 @@
+git add public/.gitkeep git commit -m "chore: add empty public directory so Docker COPY succeeds" git push origin fix/add-public
